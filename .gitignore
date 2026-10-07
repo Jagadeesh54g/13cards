@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+
+# Local environment files
+.env*
+!.env.example
+
+# Logs and debug output
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Deployment and editor/OS files
+.vercel/
+*.pem
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
